@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Riah and I am a UK based Front-End Developer mostly working with Javascript. <br>I am very keen on learning all about web development and new technologies. I thoroughly enjoy helping others, collaborating, and using my developer skills to solve real-world problems. <br>
+Hello World! :wave: I'm a self-taught Front-End Developer based in the UK, mostly working with Javascript. <br>I am very keen on learning all about web development and new technologies. I thoroughly enjoy helping others, collaborating, and using my developer skills to solve real-world problems. <br>
 
 
 ## 🌐 Socials:
