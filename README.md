@@ -1,5 +1,5 @@
 # 💫 About Me:
-A self-taught Frontend Developer based in the UK, mostly working with Javascript. <br>I am very keen on learning all about web development and new technologies. I thoroughly enjoy helping others, collaborating, and using my developer skills to solve real-world problems. <br>
+Frontend Developer based in the UK, mostly working with Javascript. <br>I am very keen on learning all about web development and new technologies. I thoroughly enjoy helping others, collaborating, and using my developer skills to solve real-world problems. <br>
 
 
 ## 🌐 Socials:
