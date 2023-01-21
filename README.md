@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer based in the UK, mostly working with Javascript. <br>I am very keen on learning all about web development and new technologies. I thoroughly enjoy helping others, collaborating, and using my developer skills to solve real-world problems. <br>
+I am a web developer with a passion for creating visually appealing and functional web applications. My expertise lies in creating responsive web designs and implementing various front-end and back-end technologies to bring my ideas to life. I am constantly learning new technologies and techniques to stay up to date with industry standards. I am dedicated to creating user-friendly and efficient web experiences for my clients and users. In my spare time, I enjoy working on personal projects to improve my skills and gain a deeper understanding of web development <br>
 
 
 ## 🌐 Socials:
