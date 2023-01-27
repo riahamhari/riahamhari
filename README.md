@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a web developer with a passion for creating visually appealing and functional web applications. My expertise lies in creating responsive web designs and implementing various front-end and back-end technologies to bring my ideas to life. I am constantly learning new technologies and techniques to stay up to date with industry standards. I am dedicated to creating user-friendly and efficient web experiences for my clients and users. In my spare time, I enjoy working on personal projects to improve my skills and gain a deeper understanding of web development
+I am a web developer with a passion for creating visually appealing and functional web applications. My expertise lies in creating responsive web designs and implementing various front-end and back-end technologies to bring my ideas to life. I am constantly learning new technologies and techniques to stay up to date with industry standards. I am dedicated to creating user-friendly and efficient web experiences for my clients and users. In my spare time, I enjoy working on personal projects to improve my skills and gain a deeper understanding of web development. 
+
+Programming aside, I have a passion for sport and staying fit. I am also a private pilot! I have held a private pilot's licence for 8 years now and enjoy flying single-engine planes every now and then along the south coast :sunglasses: 	:airplane:
 
 
 ## 🌐 Socials:
